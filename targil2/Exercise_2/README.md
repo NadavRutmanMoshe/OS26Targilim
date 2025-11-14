@@ -1,7 +1,11 @@
 # Exercise 2: Operating Systems
 
 ## Due Date
-The due date for this exercise is **15.12.2024, 23:59**.
+The due date for this exercise is **2.12.2025, 23:59**.
+
+## The TA overseeing the assignment – Nadav Rutman
+Please feel free to reach out with any clarifications or questions through the forum.
+
 
 ## Submission Instructions
 Submit your solution as a zip file containing the following files:
@@ -11,7 +15,8 @@ Submit your solution as a zip file containing the following files:
 - `buffered_open.c`
 
 ### Submission Link
-Please submit your zip file to the submission system: [https://submit.cs.biu.ac.il/cgi-bin/welcome.cgi](https://submit.cs.biu.ac.il/cgi-bin/welcome.cgi)
+Please submit your zip file to the submission box in the Moodle.
+
 
 ## Exercise Instructions
 This exercise consists of three parts. Please read the following files for detailed instructions:
